@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>I'm Robert, I'm a petroleum engineer, enthusiastic about data science, data analysis and visualization. I have experience in data management applied to the commercial area and customer service. 
+<h2>I'm Robert, I'm a petroleum engineer, enthusiastic about data science, data analysis and visualization. I have experience in data management applied to the commercial area and customer service. 
 
 Passionate about continuous learning and innovation.</h2>
 
